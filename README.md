@@ -2,9 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer |  Backend Developer | Transforming Ideas into Code ✨</h3>
 
 <img align="right" alt="coding" width="400px" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavsheth78&label=Profile%20views&color=0e75b6&style=flat" alt="manavsheth78" /> </p>
-
-<p align="left"> <a href="https://twitter.com/manavshethstwt" target="blank"><img src="https://img.shields.io/twitter/follow/manavshethstwt?logo=twitter&style=for-the-badge" alt="manavshethstwt" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deepika-print&label=Profile%20views&color=0e75b6&style=flat" alt="Deepika-print" /> </p>
 
 - 🌱 I’m currently learning **Python, C++, java**
 
@@ -61,8 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 
 ###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
   
 ###
 
