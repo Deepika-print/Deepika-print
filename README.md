@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="360px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="360px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
 
 ### 👩‍💻 About Me
 
@@ -83,4 +83,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepika-print&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepika-print&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika-print&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-print&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </div>
