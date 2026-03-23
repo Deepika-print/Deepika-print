@@ -71,6 +71,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepika-print&color=blue&style=flat)
 
-*246 contributions in the past year · 44 active days · 16 day max streak*
-
 </div>
