@@ -6,8 +6,6 @@
 
 ### AI Developer | Python Enthusiast | Builder
 
-[![GitHub followers](https://img.shields.io/github/followers/Deepika-print?style=social)](https://github.com/Deepika-print)
-
 </div>
 
 ---
