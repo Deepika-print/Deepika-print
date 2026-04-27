@@ -15,7 +15,7 @@
 - 🔭 Currently building AI projects — RAG chatbots, voice assistants, and ML systems
 - 🌱 Learning — Transformers from scratch, Graph Neural Networks, LLM fine-tuning
 - 💬 Ask me about Python, AI/ML, RAG pipelines, or anything tech
-- 📫 Reach me at: justdeep10122006@gmail.com
+- 📫 Reach me at: deepikasinghsde@gmail.com
 
 ---
 
